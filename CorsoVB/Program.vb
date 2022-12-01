@@ -1,6 +1,7 @@
 Option Strict On
 
 Imports CorsoVB.SchoolManagement
+Imports Inheritance.SchoolManagement
 'Imports CorsoVB.SchoolManagement
 
 Module Utility
@@ -38,7 +39,7 @@ End Module
 Module Program
     Function Main() As Integer
 
-        Dim 
+        Dim professor1 As Professor
 
         Console.WriteLine("inserire nome professore")
         professor1.Name = Console.ReadLine()
