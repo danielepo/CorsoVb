@@ -57,7 +57,7 @@ Namespace IntefaceSegregation
         End Sub
     End Class
     Public Class Umano
-        Implements IAnimal
+        Implements IAnimal, IRompiballe, IMangiatore
 
         Public Sub RompiLePalle() Implements IRompiballe.RompiLePalle
             Console.WriteLine("Chiama per vendere nuova linea telefonica")
