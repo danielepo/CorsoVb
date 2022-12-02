@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CorsoVB\CorsoVB1.vbproj" />
+    <ProjectReference Include="..\Inheritance\Inheritance.vbproj" />
   </ItemGroup>
 
 </Project>

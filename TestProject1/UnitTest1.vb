@@ -1,3 +1,4 @@
+Imports Inheritance.SchoolManagement
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
 Namespace TestProject1
@@ -5,7 +6,7 @@ Namespace TestProject1
     Public Class UnitTest1
         <TestMethod>
         Sub TestSub()
-            Dim stdu = New CorsoVB.SchoolManagement.Student
+            Dim stdu = New Student
 
         End Sub
     End Class
