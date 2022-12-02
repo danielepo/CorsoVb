@@ -31,3 +31,8 @@ le classi non devono dipendere da altre classi ma devono dipendere da astrazioni
 quando si disegnano le classi bisogna pensare ad interazioni astratte 
 
 This dependency upon lower-level components limits the reuse opportunities of the higher-level components
+
+https://devblogs.microsoft.com/vbteam/dependency-injection-with-visual-basic-net-part-1/
+https://devblogs.microsoft.com/vbteam/dependency-injection-with-visual-basic-net-part-2-ioc-containers/
+
+https://autofac.org/
