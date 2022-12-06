@@ -16,7 +16,9 @@ un modo tipico di estendere le classi e' attraverso il polimorfismo
 ## Liskov Substitutition Principle
 - if S if a subtype of T then objects of type T can be replaced with objects of type S
 
-esempio col quadrato
+Controesempio: 
+- (il quadrato non e' un rettangolo)[https://effectivesoftwaredesign.com/2010/09/20/when-a-square-is-not-a-rectangle/]
+
 ## Interface Segregation Principle
 
 nessuna lcase deve dipendere da metodi che non usa
