@@ -3,6 +3,7 @@
 Namespace SchoolManagement
     Public Class Student
         Inherits Person
+
         Implements IHasProfession
 
         Public Property CoursesFollowed As List(Of String)
