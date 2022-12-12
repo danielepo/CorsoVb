@@ -1,0 +1,5 @@
+﻿# Encapsulation
+
+# Inheritance
+
+# Polimorfism

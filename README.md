@@ -1,7 +1,3 @@
-# Titolo
+# Libraries
+# Generics
 
-qualse
-## Sotto titolo
-
-- list
-- puntata
