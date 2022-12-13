@@ -9,7 +9,7 @@ Namespace SchoolManagement
         Inherits Person
         Implements IHasProfession
 
-        Public Sub New()
+        Private Sub New()
             _eyes = Color.Gray
         End Sub
 

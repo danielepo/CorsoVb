@@ -9,12 +9,12 @@ Namespace SchoolManagement
         Public Property Courses As List(Of String)
 
         Public Sub New()
-            Console.WriteLine("default")
+            'Console.WriteLine("default")
         End Sub
         Public Sub New(n As String)
             MyClass.New()
             Name = n
-            Console.WriteLine("Costruito")
+            'Console.WriteLine("Costruito")
         End Sub
 
         Public Shared Function CreateWithoutAge(n As String) As Professor
